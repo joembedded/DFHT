@@ -17,5 +17,6 @@ The same routine can be used for analysis and synthesizes!
 
 ## Links ##
 - Wikipedia: https://en.wikipedia.org/wiki/Hartley_transform
+- Wikipedia: https://en.wikipedia.org/wiki/Discrete_Hartley_transform
 
 ***
