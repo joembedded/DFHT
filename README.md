@@ -7,17 +7,13 @@ For mono/single signals the DFHT is an easy2use alternative
 (although e.g. on ARM the ARM-Lib-FFT is faster, but less portable).
 The same routine can be used for analysis and synthesizes!
 
-Infos:     Oxford University Press:
-            Ronald N. Bracewell: The Hartley Transformation
-            https://en.wikipedia.org/wiki/Hartley_transform
-
 ## About Speed: ##
 - Standard Desktop PC (ca. 2019): 8k DFHT in < 1 msec
 - nRF52@64MHz: 4k DFHT ca. 30 msec ('Release') 
   (Remark: ARM-Lib-FFT: 4k FFT ca. 10 msec)
 
 ## Installation/Test ##
-- Software was tested with Visual Studio (Windows) ans SES (GCC)
+- Tested with Visual Studio (Windows) and SES (GCC)
 
 ## Links ##
 - Wikipedia: https://en.wikipedia.org/wiki/Hartley_transform
